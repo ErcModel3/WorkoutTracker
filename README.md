@@ -21,6 +21,9 @@ To install and run the development server, you'll need to:
 * install all requirements
 ```pip3 install -r requirements.txt```
 
+To exit the venv use command:
+```deavtivate```
+
 To actually run the development server, you'll need to use the command:
 ```flask --app main run```
 Which will start the development server on localhost:5000
